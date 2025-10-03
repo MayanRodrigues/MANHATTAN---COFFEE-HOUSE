@@ -1,4 +1,4 @@
-* Manhattan - Coffee House
+# Manhattan - Coffee House
 ☕ Manhattan - Coffee House
 O Melhor Café da Cidade!
 
